@@ -1,6 +1,0 @@
-user@computer ~ $ cat message.txt
-
-
-Concepts Covered:
-
-${PERSON_NAME}
